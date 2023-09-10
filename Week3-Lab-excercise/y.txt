@@ -1,0 +1,76 @@
+ 
+ int : keyword 
+ main : identifier
+(
+)
+{ 
+ int : keyword 
+ a : identifier
+,
+ b : identifier
+,
+ sum : identifier
+;
+ scanf : identifier
+(
+"
+%
+ d : identifier
+%
+ d : identifier
+"
+)
+;
+ sum : identifier
+ a : identifier
++
+ b : identifier
+;
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+ invalid lexeme
+
+Symbol Table:
+main
+a
+b
+sum
+scanf
+d

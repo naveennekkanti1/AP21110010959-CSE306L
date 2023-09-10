@@ -1,0 +1,6 @@
+int main(){
+int a,b,sum;
+scanf("%d %d");
+sum=a+b; //calculating the sum
+printf("%d",sum);
+}
