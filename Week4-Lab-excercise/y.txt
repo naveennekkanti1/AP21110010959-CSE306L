@@ -1,0 +1,68 @@
+
+ # is invalid input
+ include is identifier
+ < is Relational operator Lessthan
+ stdio is identifier
+ . is numeric constant
+ h is identifier
+ > is Relational operator Greaterthan 
+ int is keyword
+   is invalid input
+ main is identifier
+ { is invalid input 
+ int is keyword
+   is invalid input
+ a is identifier
+ , is invalid input
+   is invalid input
+ b is identifier
+ , is invalid input
+ bc is identifier
+ ; is invalid input
+ a is identifier
+ = is invalid input
+ b is identifier
+ = is invalid input
+ bc is identifier
+ a is identifier
+ >= is Relational operator Greaterthan or Equal to
+ b is identifier
+ a is identifier
+ <= is Relational operator Lessthan or Equal to
+ b is identifier
+ a is identifier
+ == is Relational operator Equal to
+ b is identifier
+ \ is invalid input
+ \ is invalid input
+ hello is identifier
+ printf is identifier
+ ( is invalid input
+ " is invalid input
+ my is identifier
+   is invalid input
+ name is identifier
+   is invalid input
+ is is identifier
+   is invalid input
+ naveennekkanti is identifier
+ " is invalid input
+ ) is invalid input
+ ; is invalid input
+ } is invalid input
+
+ the contents of symbol table are :
+
+ include
+ stdio
+ h
+ main
+ a
+ b
+ bc
+ hello
+ printf
+ my
+ 
+ is
+ naveennekkanti

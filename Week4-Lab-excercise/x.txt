@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main{
+int a, b,bc;
+a=b=bc
+a>=b
+a<=b
+a==b
+\\hello
+printf("my name is naveennekkanti");
+}
